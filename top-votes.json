@@ -1,0 +1,20 @@
+{
+    "gameId": 1,
+    "topVoters" : [
+        {
+            "userId": "765",
+            "votes": "97",
+            "success": "87"
+        },
+        {
+            "userId": "123",
+            "votes": "94",
+            "success": "81"
+        },
+        {
+            "userId": "970",
+            "votes": "80",
+            "success": "80"
+        }
+    ]
+}
